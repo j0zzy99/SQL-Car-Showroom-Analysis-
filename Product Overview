@@ -1,0 +1,12 @@
+Project Overview: 
+The primary objedctive of this project is to analyse the car showroom data using SQL queries 
+and present Steve with the necessary insights to make informed decisions. 
+The dataset contains relevant information about various aspects of the showroom's operations, including 
+car inventory, sales records, salesman, and more.
+
+Key Feautures:
+SQL Queries: Leverage the power of SQL to retrieve, manipulate, and aggregate data from the car showroom dataset.
+Data Exploration: Conduct thorough exploration of the dataset to gain a comprehensive understanding of its structure and contentss
+Query Optimization: Optimize SQL queries to ensure efficient and performant data retrieval.
+Insightful Analysis: Generate meaningful insights by analyzing the data and addressing specific questions posed by Steve.
+Data Visualization: Visualize the obtained results using charts, graphs, and other visual representations for better comprehension and presentation.
